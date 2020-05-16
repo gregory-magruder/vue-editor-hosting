@@ -1,0 +1,17 @@
+{
+  "name": "static",
+  "version": "1.0.0",
+  "description": "This is a static template with no bundling",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [
+    "template",
+    "codesandbox",
+    "static"
+  ],
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
